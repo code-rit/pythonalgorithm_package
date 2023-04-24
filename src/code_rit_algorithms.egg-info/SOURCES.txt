@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/testing.py
+src/code_rit_algorithms/__init__.py
+src/code_rit_algorithms/kadanes.py
+src/code_rit_algorithms/sort.py
+src/code_rit_algorithms.egg-info/PKG-INFO
+src/code_rit_algorithms.egg-info/SOURCES.txt
+src/code_rit_algorithms.egg-info/dependency_links.txt
+src/code_rit_algorithms.egg-info/top_level.txt

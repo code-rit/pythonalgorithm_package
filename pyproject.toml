@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "algorithms"
-version = "0.0.1"
+name = "code_rit_algorithms"
+version = "0.0.2"
 authors = [
   { name="Ritik Sahu", email="ritiksahu9312@gmail.com" },
 ]

@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: zopperuuid
+Version: 0.0.8
+Summary: This Package will help in generating the UUID
+Home-page: https://www.zopper.com
+Author: Saurav Sharma
+Author-email: saurav.sharma@zopper.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Zopper UUID Generator
+
+This package will help in creating the uuid
+
+## Formating
+Formating using black
+
+## Installation
+### Command
+```
+pip install zopperuuid
+```
+
+For force reinstall
+
+```
+pip install --force-reinstall zopperuuid
+```
+
+## Usage
+```
+In [1]: from zopperuuid import uuid
+In [2]: uuid.create_uuid()
+
+Out[2]: 'zopper-d2c3a494-dc37-4c0f-aa87-31a6ea2dde23'
+```
