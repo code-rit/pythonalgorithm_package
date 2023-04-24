@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "algorithms"
+version = "0.0.1"
+authors = [
+  { name="Ritik Sahu", email="ritiksahu9312@gmail.com" },
+]
+description = "A package for all sorts of generic algorithms for sorting and standard dsa questions asked in interviews"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
